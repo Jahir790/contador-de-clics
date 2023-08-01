@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #1b1b32; /* Color de fondo de la pagina */
+}
+
+/* Asignar el App */
+.App {
+  display: flex; /* Asignar el estilo */
+  flex-wrap: wrap; /* Ubicar los elementos */
+  align-items: center; /* Centrar vertical */
+  justify-content: center; /* Centrar horizontalmente */
+  padding-top: 15px;
+  font-family: Lato, sans-serif; /* Tipo de letras */
+}
+
+/* Contenedor del Logo */
+.freecodecamp-logo-contenedor {
+  width: 100%; /* Ancho */
+  display: flex;
+  align-items: center; /* Centrar vertical */
+  justify-content: center; /* Centrar horizontalmente */
+  margin: 20px;
+}
+
+.freecodecamp-logo {
+  height: 50px; /* Altura del Logo */
+}
