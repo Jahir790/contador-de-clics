@@ -1,7 +1,7 @@
 button {
   width: 250px; /* Ancho */
   height: 80px; /* Altura */
-  font-size: 35px;
+  font-size: 35px; /* Tamaño de la letra */
   font-family: Roboto, sans-serif; /* Tipos de letra */
   font-weight: bold; /* Peso de la letra es Negrita */
   color: white; /* Color de la letra */

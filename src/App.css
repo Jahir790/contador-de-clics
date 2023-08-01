@@ -31,3 +31,13 @@ body {
 .freecodecamp-logo {
   height: 50px; /* Altura del Logo */
 }
+
+.contenedor-principal {
+  height: 500px; /* Altura */
+  min-width: 600px; /* Ancho mínimo */
+  display: flex; /* Elementos en cada linea */
+  flex-wrap: wrap;
+  flex-direction: column; /* Para que se agrupen en una columna*/
+  align-items: center; /* Texto centrado vertical */
+  justify-content: center; /* Texto centrado horizontal */
+}
