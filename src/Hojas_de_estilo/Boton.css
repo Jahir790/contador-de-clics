@@ -1,0 +1,24 @@
+button {
+  width: 250px; /* Ancho */
+  height: 80px; /* Altura */
+  font-size: 35px;
+  font-family: Roboto, sans-serif; /* Tipos de letra */
+  font-weight: bold; /* Peso de la letra es Negrita */
+  color: white; /* Color de la letra */
+  border: 2px solid white; /* grosor del borde */
+  border-radius: 15px; /* Radio del borde */
+  margin: 5px; /* Margen */
+  cursor: pointer; /* Manito de cursor cuando se coloque sobre el boton*/
+}
+/* Para que el color del fondo cambie cuando se coloque el cursor en el boton */
+button:hover {
+  background-color: #00471b;
+}
+
+.boton-clic {
+  background-color: #002ead;
+}
+
+.boton-reiniciar {
+  background-color: #5a01a7;
+}
