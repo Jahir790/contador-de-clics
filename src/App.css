@@ -33,7 +33,7 @@ body {
 }
 
 .contenedor-principal {
-  height: 500px; /* Altura */
+  height: 550px; /* Altura */
   min-width: 600px; /* Ancho mínimo */
   display: flex; /* Elementos en cada linea */
   flex-wrap: wrap;
